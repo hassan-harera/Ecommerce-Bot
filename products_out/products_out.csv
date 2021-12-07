@@ -1,0 +1,317 @@
+price,title,productId,amount,productPictureUrls,unit,categoryName
+104.95,جبنة رومي كفيار,130000,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130001%2F130001.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+149.99,جبنة فلامنك فريكو,130001,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130002%2F130002.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+8.5,ارز حبة حبة بالكيلو,130002,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130003%2F130003.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات
+19.9,ارز تايلاندي حبة حبة ,130003,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130004%2F130004.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات
+24.99,ارز هندي حبة حبة ,130004,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130005%2F130005.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات
+17.99,عدس اصفر حبة حبة ,130005,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130006%2F130006.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات
+13.95,عدس بجبة حبة حبة ,130006,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130007%2F130007.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات
+14.99,حمص حبة حبة ,130007,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130008%2F130008.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+19.95,لوبيا حبة حبة  ,130008,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130009%2F130009.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+15.99,ذرة فيشار حبة حبة  ,130009,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130010%2F130010.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+15.99,مدشوش حبة و حبة ,130010,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130011%2F130011.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+21.99,فاصوليا حبة حبة  ,130011,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130012%2F130012.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+29.95,شطة حار,130012,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130013%2F130013.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+17.95,حلبة بلدي,130013,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130014%2F130014.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+89.99,كركدية سوداني,130014,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130015%2F130015.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+71.99,حبة البركة,130015,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130016%2F130016.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+57.95,ينسون ,130016,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130017%2F130017.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+37.95,كراوية,130017,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130018%2F130018.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+134.95,لبان دكر,130018,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130019%2F130019.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+37.95,كاكاو خام ,130019,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130020%2F130020.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+39.99,ليمون اسود,130020,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130021%2F130021.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+37.95,نعناع مجفف,130021,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130022%2F130022.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+45.95,رز ماري,130022,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130023%2F130023.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+37.95,ملح صيني ,130023,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130024%2F130024.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+23.95,شوفان ,130024,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130025%2F130025.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+47.95,حب رشاد,130025,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130026%2F130026.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+73.95,كباب صيني ,130026,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130027%2F130027.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+29.95,كزبرة ناعمة ,130027,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130028%2F130028.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+35.99,كزبرة بلدي,130028,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130029%2F130029.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+74.99,قرفة ناعم ,130029,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130030%2F130030.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة
+399.95,جوزة الطيب,130030,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130031%2F130031.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+17.95,نشادر ,130031,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130032%2F130032.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+74.99,كمون بلدي,130032,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130033%2F130033.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+99.99,زنجبيل اخضر ,130033,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130034%2F130034.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+89.99,فلفل اسود ناعم,130034,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130035%2F130035.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+67.95,كمون ناعم ,130035,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130036%2F130036.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+59.99,كاري ,130036,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130037%2F130037.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+49.99,كركم ,130037,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130038%2F130038.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+149.95,قرفة عيدان,130038,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130039%2F130039.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+69.95,زنجبيل ناعم,130039,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130040%2F130040.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+44.99,سمسم محمص,130040,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130041%2F130041.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+29.95,سمسم بلدي,130041,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130042%2F130042.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+46.95,سمسم ابيض,130042,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130043%2F130043.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+45.95,ثوم بودرة ,130043,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130044%2F130044.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+37.95,بصل بودرة ,130044,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130045%2F130045.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+151.95,قرنفل ,130045,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130046%2F130046.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+89.99,فلفل اسود برازيلي ,130046,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130047%2F130047.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+54.55,ورق لورا,130047,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130048%2F130048.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+69.99,كريز,130048,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130049%2F130049.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+49.99,جبنة قريش بحبة البركة ,130049,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130050%2F130050.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+49.99,جبنة مش ميكس ,130050,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130051%2F130051.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+159.99,جودة فريكو ,130051,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130052%2F130052.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+49.99,سلطة بسطرمة ,130052,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130053%2F130053.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+59.99,جبنة فيومي الوراق,130053,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130054%2F130054.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+59.99,جبنة براميلي مزبدة,130054,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130055%2F130055.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+59.99,جبنة براميلي فلفل ,130055,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130056%2F130056.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+59.99,جبنة براميلي سادة ,130056,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130057%2F130057.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+59.99,جبنة شيدر لبناني ,130057,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130058%2F130058.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+59.99,فلفل مرجان,130058,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130059%2F130059.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+49.99,جبنة كيري رومي ,130059,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130060%2F130060.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+139.99,شيدر خشالة ,130060,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130061%2F130061.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+49.99,جبنة كيري بالقشطة,130061,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130062%2F130062.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+34.95,جبنة كيري هالبينو ,130062,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130063%2F130063.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+114.99,افانتي,130063,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130064%2F130064.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+44.99,جبنة قريش,130064,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130065%2F130065.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+149.99,لانشون فريش فارم فراخ مدخن,130065,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130066%2F130066.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم مجمده
+39.99,حلاوة سادة ,130066,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130067%2F130067.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,حلاوه
+49.99,حلاوة شيكولاتة ,130067,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130068%2F130068.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,حلاوه
+49.99,حلاوة مكسرات ,130068,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130069%2F130069.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,حلاوه
+109.99,لانشون حلواني سادة ,130069,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130070%2F130070.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+109.99,حلواني زيتون ,130070,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130071%2F130071.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+109.99,حلواني بهارات,130071,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130072%2F130072.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+119.99,حلواني لحمة ,130072,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130073%2F130073.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم مجمده
+179.99,حلواني فراخ مدخن,130073,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130074%2F130074.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم مجمده
+119.99,حلواني فراخ عادي,130074,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130075%2F130075.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم مجمده
+179.95,بسطرمة مخلي,130075,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130076%2F130076.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+87.99,لانشون فريش فارم,130076,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130077%2F130077.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+99.99,لانشون ماي ميت بسطرمة ,130077,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130078%2F130078.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+49.99,الحسن والحسين سادة وزيتون,130078,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130079%2F130079.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+44.99,اسباني جامبو ,130079,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130080%2F130080.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+39.99,اخضر جامبو ,130080,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130081%2F130081.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+34.95,كلاماتا دولسي,130081,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130082%2F130082.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+39.99,شرائح اخضر ,130082,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130083%2F130083.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+29.95,بصل مخلل ,130083,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130084%2F130084.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+19.95,ليمون مخلل ,130084,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130085%2F130085.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+15.99,بوليف طرشي,130085,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130086%2F130086.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+99.95,لانشون اطياب ,130086,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130087%2F130087.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+42.95,جبنة اسطنبولي هيلثي,130087,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130088%2F130088.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+149.99,حلواني سلامي جاف,130088,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130089%2F130089.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+149.95,حلواني سلامي مطبوخ ,130089,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130090%2F130090.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+199.99,حلواني روستو رومي ,130090,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130091%2F130091.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+119.99,موزة بلدي ,130091,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130092%2F130092.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+139.99,سمانة بلدي ,130092,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130093%2F130093.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+134.99,قشرة لوحة ,130093,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130094%2F130094.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+134.99,لحم قطع ,130094,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130095%2F130095.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+139.99,استيك ,130095,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130096%2F130096.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+134.99,لحم خضار ,130096,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130097%2F130097.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+134.99,سن بلدي ,130097,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130098%2F130098.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+144.99,بفتيك بلدي,130098,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130099%2F130099.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+99.99,سجق بلدي ,130099,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130100%2F130100.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم مجمده
+124.99,كفتة بلدي ,130100,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130101%2F130101.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+99.99,حواوشي ,130101,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130102%2F130102.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+124.99,برجر لحم ,130102,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130103%2F130103.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم مجمده
+124.99,سجق مدخن,130103,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130104%2F130104.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم مجمده
+129.99,مفروم ,130104,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130105%2F130105.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+129.99,مفروم بلدي ,130105,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130106%2F130106.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+74.99,لحمة راس,130106,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130107%2F130107.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+124.99,قلب بلدي ,130107,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130108%2F130108.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+129.99,كبدة وقلب,130108,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130109%2F130109.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+139.99,كبدة صافي ,130109,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130110%2F130110.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+39.99,بوش,130110,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130111%2F130111.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,طماطم
+64.99,بانية متبل ,130111,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130112%2F130112.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+64.99,بانية فراخ ,130112,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130113%2F130113.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+44.99,دبوس ,130113,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130114%2F130114.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+35.99,اوراك ,130114,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130115%2F130115.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+35.99,اوراك متبلة ,130115,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130116%2F130116.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+79.95,شيش متبل,130116,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130117%2F130117.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+59.95,شيش سادة,130117,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130118%2F130118.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+68.95,شاورما فراخ ,130118,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130119%2F130119.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+64.99,برجر فراخ ,130119,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130120%2F130120.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+38.75,فراخ صدور ,130120,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130121%2F130121.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+48.95,دبوس متبل ,130121,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130122%2F130122.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+48.95,فراخ متبلة ,130122,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130123%2F130123.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+49.99,بط,130123,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130124%2F130124.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+44.95,حمام ,130124,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130125%2F130125.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+24.99,اجنحة سادة ,130125,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130126%2F130126.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+24.99,اجنحة متبلة ,130126,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130127%2F130127.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+44.95,كبدة فراخ ,130127,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130128%2F130128.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+39.95,قوانص فراخ ,130128,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130129%2F130129.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+41.99,كبدة و قوانص ,130129,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130130%2F130130.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+34.99,اوراك رومي ,130130,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130131%2F130131.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+74.95,صدور رومي,130131,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130132%2F130132.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+9.95,قرع ,130132,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130133%2F130133.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+9.99,فراولة ,130133,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130134%2F130134.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+59.99,كيوي ,130134,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130135%2F130135.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+19.99,عنب بناتي ,130135,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130136%2F130136.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+4.99,سفندي احمر ,130136,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130137%2F130137.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+11.99,ليمون ,130137,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130138%2F130138.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+24.99,تفاح سكري ,130138,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130139%2F130139.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+19.99,تفاح بولاندي,130139,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130140%2F130140.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+11.99,جوافة ,130140,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130141%2F130141.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+9.99,جزر ,130141,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130142%2F130142.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+24.99,فلفل الوان ,130142,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130143%2F130143.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+44.99,افوكادو,130143,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130144%2F130144.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+9.99,كوسة ,130144,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130145%2F130145.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+7.95,بسلة ,130145,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130146%2F130146.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+9.99,بطاطس,130146,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130147%2F130147.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+16.99,فول بلدي ,130147,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130148%2F130148.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات
+7.99,طماطم,130148,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130149%2F130149.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+21.99,حرنكش ,130149,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130150%2F130150.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+6.99,رمان,130150,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130151%2F130151.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+6.95,فاصوليا خضراء,130151,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130152%2F130152.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+149.99,ريكفورد,130152,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130153%2F130153.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+38.99,فراخ صندوق ,130153,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130154%2F130154.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+38.95,شطة قرون ,130154,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130155%2F130155.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+24.99,تفاح اصفر ,130155,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130156%2F130156.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+8.99,يوسفي ,130156,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130157%2F130157.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+11.99,كنتالوب,130157,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130158%2F130158.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+16.99,كمثري ,130158,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130159%2F130159.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+9.99,برتقال بصرة ,130159,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130160%2F130160.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+14.99,موز بلدي,130160,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130161%2F130161.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+3.99,بصل ابيض,130161,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130162%2F130162.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+24.99,كربونات ,130162,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130163%2F130163.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+699.95,حبهان,130163,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130164%2F130164.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+59.95,ببريكة ,130164,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130165%2F130165.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+89.95,رومي داير 1,130165,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130166%2F130166.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+44.95,جبنة قشطة ,130166,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130167%2F130167.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+6.99,بصل احمر ,130167,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130168%2F130168.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+7.99,شطة خضر,130168,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130169%2F130169.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+4.99,باذنجان,130169,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130170%2F130170.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+7.99,خيار ,130170,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130171%2F130171.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+7.99,فلفل حشو ,130171,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130172%2F130172.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+49.99,رنجة ,130172,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130173%2F130173.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,اسماك مجمده
+69.99,لانشون فاخر بيف,130173,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130174%2F130174.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+44.99,جبنة ثلاجة هايبر بندا,130174,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130175%2F130175.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+71.99,زبيب ايراني,130175,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130176%2F130176.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+99.99,فلفل ابيض,130176,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130177%2F130177.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+49.99,ملح ليمون ,130177,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130178%2F130178.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+149.95,زعفران ,130178,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130179%2F130179.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+7.99,مكرونة سايبة ,130179,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130180%2F130180.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+7.99,شعرية سايبة ,130180,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130181%2F130181.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+179.99,شيدر احمر,130181,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130182%2F130182.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+20.99,موز مستورد ,130182,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130183%2F130183.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+175.0,روزبيف,130183,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130184%2F130184.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم مجمده
+9.5,نشا حلو الربيع سايب,130184,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130185%2F130185.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+149.99,مستكة ,130185,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130186%2F130186.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+116.99,خلطات متنوعة 1,130186,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130187%2F130187.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خلطات
+84.99,السبع بهارات ,130187,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130188%2F130188.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خلطات
+8.95,دقيق الضحي كجم ,130188,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130189%2F130189.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+79.99,لبن بودرة ,130189,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130190%2F130190.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,
+24.99,برقوق,130190,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130191%2F130191.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+16.99,موز ,130191,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130192%2F130192.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+46.99,تفاح اخضر,130192,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130193%2F130193.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+55.99,كريم شانتية سايب,130193,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130194%2F130194.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,حلويات
+34.99,فارماسيل ,130194,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130195%2F130195.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,حلويات
+79.99,كوردن بلو ,130195,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130196%2F130196.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+61.99,اتشكن استربس ,130196,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130197%2F130197.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+129.99,لحم ضاني ,130197,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130198%2F130198.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+129.99,لحم ماعز ,130198,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130199%2F130199.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+64.99,لية خروف ,130199,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130200%2F130200.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+79.99,لانشون المراعي فلفل وسادة ,130200,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130201%2F130201.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+279.99,بسطرمة حلواني ,130201,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130202%2F130202.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+64.99,مفروم مستورد,130202,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130203%2F130203.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+22.99,مانجو زبدية,130203,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130204%2F130204.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+21.99,تفاح سوري ,130204,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130205%2F130205.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+18.99,رقبة رومي ,130205,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130206%2F130206.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+31.99,جناح رومي طازة ,130206,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130207%2F130207.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+39.99,كبدة طازة رومي ,130207,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130208%2F130208.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+24.99,اجنحة ,130208,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130209%2F130209.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+7.99,هياكل ,130209,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130210%2F130210.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,
+119.95,فلامنك مزارع دينا ,130210,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130211%2F130211.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+29.99,تفاح نمساوي ,130211,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130212%2F130212.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+11.99,جوافة بناتي ,130212,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130213%2F130213.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+94.99,زعتر فاخر العريش,130213,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130214%2F130214.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+149.99,لون طعام ,130214,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130215%2F130215.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خلطات
+7.99,برتقال بلدي ,130215,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130216%2F130216.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+69.99,جوز هند كامل الدسم,130216,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130217%2F130217.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+21.99,تمور جنة الوادى ,130217,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130218%2F130218.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+79.99,اراسيا مجفف ,130218,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130219%2F130219.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+99.99,مشمشية مجفف,130219,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130220%2F130220.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+199.99,لوز مقشر ,130220,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130221%2F130221.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+219.99,بندق مقشر ,130221,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130222%2F130222.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+11.99,بلح رطب ,130222,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130223%2F130223.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+15.99,بلح بريمو,130223,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130224%2F130224.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+259.99,فسدق امريكي ,130224,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130225%2F130225.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+74.99,لوز كامل ,130225,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130226%2F130226.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+74.99,بندق كامل ,130226,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130227%2F130227.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+74.99,عين جمل كامل ,130227,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130228%2F130228.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+199.99,عين جمل مقشر ,130228,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130229%2F130229.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+16.95,بلح اكتوبر,130229,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130230%2F130230.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+79.99,مفروم ,130230,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130231%2F130231.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,
+51.99,زبيب مصري ,130231,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130232%2F130232.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+249.99,كاجو محمص ,130232,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130233%2F130233.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+229.99,كاجو ني ,130233,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130234%2F130234.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+39.99,خروب قرون قبرصي ,130234,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130235%2F130235.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+29.99,بلح الرحاب,130235,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130236%2F130236.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+69.99,باذنجان مكدوس ,130236,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130237%2F130237.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+14.99,قرنبيط مخلل ,130237,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130238%2F130238.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+21.99,خيار مخلل ,130238,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130239%2F130239.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+17.99,لفت مخلل ,130239,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130240%2F130240.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+39.99,سوبيا سورس ,130240,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130241%2F130241.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+39.99,فول سوداني ,130241,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130242%2F130242.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+109.99,مشمشية مقاس 8,130242,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130243%2F130243.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+109.99,مشمشية مقاس 4,130243,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130244%2F130244.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+17.5,خوخ بلدي,130244,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130245%2F130245.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+149.99,تين حبل ,130245,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130246%2F130246.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+7.99,بطيخ كجم,130246,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130247%2F130247.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+64.99,ممبار بلدي ,130247,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130248%2F130248.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,لحوم طازجة
+44.99,مشمش ,130248,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130249%2F130249.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+11.99,اناناس العريش,130249,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130250%2F130250.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عصائر
+7.99,دقيق المرشدي سايب,130250,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130251%2F130251.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+119.99,فسيخ ,130251,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130252%2F130252.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,اسماك مجمده
+14.99,ملبن سايب ,130252,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130253%2F130253.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+7.5,عنب احمر ,130253,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130254%2F130254.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+9.99,طرشي بلدي ,130254,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130255%2F130255.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+16.99,فلفل مخلل ,130255,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130256%2F130256.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+29.99,فلفل هالبينو ,130256,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130257%2F130257.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خلطات
+24.99,خيار قشة ,130257,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130258%2F130258.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خلطات
+44.99,زيتون اخضر محشي ,130258,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130259%2F130259.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+47.99,كالاماتا جامبو ,130259,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130260%2F130260.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+29.99,ليمون اخضر خلطة,130260,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130261%2F130261.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خلطات
+64.99,افانتي دوبل كريمة ,130261,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130262%2F130262.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,
+4.99,ملوخية خضراء,130262,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130263%2F130263.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+119.99,رومي قديم ,130263,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130264%2F130264.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+69.99,سلطة لانشون ,130264,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130265%2F130265.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+59.99,مكس جبن سايب,130265,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130266%2F130266.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+44.99,كريز فاكهة ,130266,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130267%2F130267.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+44.99,مش صعيدي ,130267,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130268%2F130268.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+89.99,لانشون فريش فارم فراخ ,130268,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130269%2F130269.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+14.99,تين رمادي ,130269,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130270%2F130270.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+34.99,نكتارين,130270,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130271%2F130271.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+26.99,خوخ مستورد ,130271,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130272%2F130272.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+30.99,مانجو عويسي ,130272,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130273%2F130273.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+99.99,لانشون فريش فارم بسطرمة ولحمة ,130273,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130274%2F130274.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بسطرمه ولانشون
+19.99,عنب مستورد,130274,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130275%2F130275.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+19.99,موز سوداني,130275,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130276%2F130276.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+8.5,ارز سايب ,130276,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130277%2F130277.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+23.99,سلك مواعين ,130277,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130278%2F130278.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مستلزمات
+34.99,خوخ كعب الغزال ,130278,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130279%2F130279.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+239.99,ريكفورد كاستيلو ,130279,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130280%2F130280.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+29.99,سمك مكرونة ,130280,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130281%2F130281.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,اسماك مجمده
+29.99,سمك ماكريل,130281,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130282%2F130282.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,اسماك مجمده
+14.99,بامية خضار ,130282,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130283%2F130283.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+49.99,جبنة تلاجة مزارع دينا ,130283,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130284%2F130284.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+16.99,ترمس حبة حبة سايب,130284,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130285%2F130285.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,بقوليات وحبوب
+59.99,زيتون كالامات تركي ,130285,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130286%2F130286.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مخللات
+59.99,خيار هندي ,130286,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130287%2F130287.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,
+29.99,مانجو هايدي ,130287,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130288%2F130288.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+24.99,كمثري افريقي ,130288,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130289%2F130289.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+29.99,بلح برحي ,130289,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130290%2F130290.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+4.99,بطاطا حلوة ,130290,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130291%2F130291.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+12.99,تين بلدي ,130291,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130292%2F130292.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+34.99,مانجو الفونسو ,130292,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130293%2F130293.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+29.99,مانجو تيمور ,130293,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130294%2F130294.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+27.99,مانجو سكري ,130294,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130295%2F130295.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+159.99,شيدر احمر ماينز ,130295,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130296%2F130296.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+17.99,عنب كريمسون ,130296,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130297%2F130297.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+24.99,مانجو نعومي ,130297,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130298%2F130298.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+26.99,مانجو مبروكة ,130298,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130299%2F130299.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+6.99,باذنجان رومي ,130299,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130300%2F130300.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+9.99,سميد بسبوسة ,130300,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130301%2F130301.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,حلويات
+44.99,عرق سوس ,130301,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130302%2F130302.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عصائر
+39.99,برقدوش ,130302,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130303%2F130303.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,
+104.99,بابونج اعشاب ,130303,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130304%2F130304.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+79.99,بهارات لحمة ,130304,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130305%2F130305.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خلطات
+79.99,بهارات فراخ,130305,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130306%2F130306.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خلطات
+79.99,بهارات الكبسة,130306,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130307%2F130307.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خلطات
+9.99,ليمون ايطالي ,130307,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130308%2F130308.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+259.99,فسدق حلبي عاشوري مالح,130308,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130309%2F130309.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,مكسرات
+29.99,قشطة فاكهة,130309,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130310%2F130310.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+12.99,شطة حمرا,130310,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130311%2F130311.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,عطارة وتوابل
+6.99,بنجر ,130311,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130312%2F130312.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,خضروات
+24.99,مانجو صدر ,130312,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130313%2F130313.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+159.99,فريكو مدخن ,130313,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130314%2F130314.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,جبن
+19.99,كاكا فاكهة ,130314,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130315%2F130315.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,فواكه
+11.99,سكر بودرة سايب,130315,1,https://firebasestorage.googleapis.com/v0/b/ecommerce-55b58.appspot.com/o/Products%2F130316%2F130316.jfif?alt=media&token=d8e32727-6c2f-42d6-acc0-df967d04bf0c,كيلو,

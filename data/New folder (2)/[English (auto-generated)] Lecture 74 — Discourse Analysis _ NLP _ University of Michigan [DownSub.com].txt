@@ -1,0 +1,740 @@
+welcome back to natural language
+
+processing now we are going to continue
+
+now with the unit on discourse analysis
+
+so discourse analysis is very different
+
+from most of what you've seen in natural
+
+language processing so far because it
+
+deals with information that goes across
+
+sentences very often the documents that
+
+we are going to process and analyze have
+
+multiple sentences any news article or
+
+story and fiction work has many
+
+sentences so we have any issues with
+
+discourse that we need to focus on
+
+computationally some of them are listed
+
+here the first one is called anaphora so
+
+enough with the Greek word and it is
+
+used to refer to expressions that
+
+correlate with some earlier occurrence
+
+in the document so for example if I say
+
+I went to see my grandfather at the
+
+hospital
+
+period the old man has been there for
+
+weeks
+
+the phrase the old man refers to my
+
+grandfather and it's used in the
+
+sentences anaphoric and then the last
+
+sentence he had surgery a few days ago
+
+again we have an instance of anaphora
+
+the pronoun he is used to refer back to
+
+my grandfather so one of the goals in
+
+computational discourse analysis is to
+
+be able to group those three expressions
+
+my grandfather the old man and he into
+
+one set so that we know that they refer
+
+to the same person so there are two
+
+concepts that I won't introduce at this
+
+time that a very furring expression of
+
+an antecedent so the referring
+
+expression in the examples above was
+
+something like the old man or he and the
+
+antecedent was my grandfather so not for
+
+is a poly not only with not sentential
+
+text but also within single sentences it
+
+is completely possible and frequent that
+
+an enough work expression or a referring
+
+expression may refer to an antecedent
+
+back in the same sentence so what do we
+
+need to do to address this issue
+
+computationally well the first thing
+
+that we need is a model of discourse
+
+that tells us how do people actually go
+
+about generating texts that includes an
+
+offeror so the moment we understand how
+
+they do it it will have an easier time
+
+competing their intent so let's look at
+
+some other phenomena related to
+
+discourse one of them is co-reference so
+
+for example if I say
+
+Jones oh man in the park period as every
+
+morning she was walking the dog so what
+
+does she refer to we have to be able to
+
+figure out of all the words in those two
+
+sentences what it can possibly get for
+
+it first of all we know that it has to
+
+refer to a named entity so it has to
+
+refer to a noun phrase so the noun
+
+phrases are jammed marry park every
+
+morning and her dog so how do we know
+
+which one of those is the correct
+
+antecedent for she well let's think
+
+about it every morning is clearly not a
+
+person whereas she has to be a person so
+
+we have a discrepancy here another
+
+discrepancies again similar nature is
+
+the park the park is not something that
+
+we can refer to as she because it's
+
+inanimate John is a man so we cannot
+
+refer to him as a she either we have a
+
+gender agreement her dog is a possible
+
+reference but the structure of the
+
+sentence makes it impossible for that to
+
+be the right antecedent for she so the
+
+only thing that is left is Mary and you
+
+can check it in fact it makes sense it
+
+has the right gender the right animus
+
+it's an animate person and it appears
+
+previously in the discourse so some of
+
+those features will be used in the
+
+computational analysis of core efference
+
+so there is an annual competition that
+
+is there was an annual competition
+
+called mark that had a specific task
+
+encore efference extraction and for that
+
+evaluation the participants were
+
+provided by nist with a large collection
+
+of documents that were annotated for
+
+core efference manually so here's some
+
+examples it's very difficult to read
+
+those so you should probably pause and
+
+read this carefully the idea here is
+
+that we have some sentence like the
+
+Russian airline Aeroflot has been hit
+
+with a writ for losses and damages found
+
+in Hong Kong and so on so every entity
+
+here is marked with some number for
+
+example the Russian airline Aeroflot is
+
+ID 6 whereas hong kong is ID 15 and so
+
+on so the goal here is to figure out
+
+which of those entities refer to one
+
+another so let's look at some examples
+
+of those so in the second pack
+
+from the slide you can see that some of
+
+the named entities have references that
+
+point back to some other entities so all
+
+seventy-five people on board D Aeroflot
+
+Airbus we have Aeroflot name marked as a
+
+named entity and Airbus also marked as
+
+an entity and you can see that our float
+
+has an idea of ten but it refers back to
+
+the entity numbered six and then later
+
+on when we have the pronoun it it has a
+
+new ID 11 but it is also identified to
+
+cor refer to the named entity 12 so
+
+using this kind of data we can build
+
+automatic systems that use
+
+classification to take into account
+
+every single occurrence of a pawn down
+
+or other anaphoric expression and look
+
+for possible antecedents and use
+
+features to determine what is the
+
+correct one let's look at some other
+
+properties of discourse I looked up the
+
+definition of a screwdriver and the tool
+
+on Wikipedia is roughly what it looks
+
+like it's a fairly long paragraph so you
+
+don't need to read the whole thing a
+
+screwdriver is a tool manual or powered
+
+for turning screws and so on and so
+
+forth what you need to pay attention to
+
+however is the presence of some
+
+discourse structure so for example the
+
+word the shaft and the tip and the word
+
+handles and so on are introduced at the
+
+beginning of sentences and they refer
+
+back to objects that I introduced
+
+directly or indirectly in the previous
+
+sentences the same thing applies to the
+
+word these in the final sentence so how
+
+do we do coherence resolution as I
+
+mentioned before we need to look at
+
+agreement constraints and also position
+
+or constraint so some of the agreement
+
+constraints that make sense our gender
+
+for example male or female number
+
+singular plural anima see you know
+
+animate and inanimate we can also look
+
+at syntactic constraints for example
+
+parallelism we can have two sentences
+
+that have roughly the same structure and
+
+we can use that information to determine
+
+which anaphoric expression refers to
+
+what and the order of the sentences is
+
+also very important enough where
+
+specifically is a phenomenon that refers
+
+back to earlier occurrences in the
+
+document
+
+there is a similar term called katha
+
+fora which refers to are referring
+
+expressions that point to antecedents
+
+that appear after them so example this
+
+would be with its new role in the movie
+
+comma Brad Pitt is going to become even
+
+more famous so in this expression his
+
+appears before its antecedent Brad Pitt
+
+so this is an example of Katara so in
+
+sentence or during the recency is very
+
+important the most likely antecedent
+
+they were referring expression is within
+
+the current sentence earlier on or in
+
+the previous sentence entirely in some
+
+earlier sentence within the same
+
+paragraph very rarely would you see
+
+instances of enough word that if we're
+
+back to entities introduced in the
+
+previous paragraph unless there was some
+
+intervening and a fork expression that
+
+refers back to them in the current
+
+paragraph so I'm going to go now to an
+
+example are based on a paper by lap in
+
+and lease from the early 90s where for
+
+the very first time they looked at the
+
+computational treatment of core FS so
+
+the emanuelly cim came up with a list of
+
+rules that tell you given a list of
+
+candidates for anaphoric resolution what
+
+properties of those make them more
+
+likely to be the correct antecedents so
+
+here are the seven properties that a lap
+
+in the lease were looking at I want to
+
+expand them on the next slide in more
+
+detail first I want to say that sentence
+
+recency is the most important feature if
+
+an entity was introduced in the same
+
+sentence as done a fork expression it's
+
+more likely to be the correct antecedent
+
+than one that was introduced earlier the
+
+other features that come through the
+
+largest number of points are subject
+
+emphases that is when that it is the
+
+subject of the sentence and so on I'm
+
+going to explain them on the next slide
+
+in more detail so how do we deal with
+
+recency if an entity is a candidate to
+
+be the antecedent of a current referring
+
+expression every time we cause a
+
+sentence boundary its weight is going to
+
+be cut in half
+
+so this effectively gets rid of
+
+expressions after a few sentences and in
+
+fact la
+
+nice also have a rule that says it after
+
+four sentences all the candidates get
+
+removed and here's some of the examples
+
+for the different features that they use
+
+so for example for subject an Acura
+
+Integra is parked in the lot so Acura
+
+Integra is a car and it is the subject
+
+of the sentence there is an Acura
+
+Integra parked in the lot this is an
+
+example of the second feature that's an
+
+existential predicate the third example
+
+is Jon parked an Acura in the lot in
+
+this case Acura is the object of the
+
+sentence John gave Susan an Acura this
+
+is an indirect object and finally in his
+
+acura integra george shultz using his
+
+new CD player so this is an example of
+
+an adverbial prepositional phrase that
+
+includes their candidate referent and as
+
+you can see in the order in which I show
+
+them we can have an even decreasing
+
+likelihood that that particular word the
+
+car is that decedent of a pawn now that
+
+appears later on let's turn now to an
+
+example that was described also in the
+
+Jurassic and Martin book this is a
+
+example of the procedure described by
+
+lapin and Lise it's name is resolution
+
+of an a4 procedure it's called also of
+
+app and in recent years there has been
+
+an open-source implementation of this
+
+algorithm by a minion count group at the
+
+national university of singapore so
+
+let's go through the algorithm in more
+
+detail now we're going to take an
+
+existing referring expression and we
+
+want to disambiguate it so for this
+
+purpose we're going to collect all the
+
+possible reference up to four sentences
+
+back we're going to remove all the
+
+potential reference that not agree in
+
+number or gender with the pronoun so in
+
+one of my earlier examples we had John
+
+and then XI so John would be removed in
+
+this example then we move all the
+
+potential constraints that do not pass
+
+interest intentional syntactic or
+
+reference constraints what that means is
+
+that if the sentence doesn't make some
+
+tactics ends with that particular
+
+reference we're going to ignore that and
+
+then we're going to compute the total
+
+salience value of the reference by
+
+adding any applicable values for things
+
+like row parallelism which gives us an
+
+extra 35 points and also cutoff aura
+
+which actually removes a hundred
+
+seventy-five points and then I once we
+
+have added all the feature scores we're
+
+going to select the referent with the
+
+highest salience value and if there is a
+
+tie the tiebreaker is going to be the
+
+closeness to the currently disambiguated
+
+expression and then just so that we can
+
+also take into account recency when we
+
+move to new sentence we're going to have
+
+all the scores of the existing entities
+
+on the list okay so now let's look at an
+
+example from draftkings marking with
+
+three sentences that it shows how the
+
+lapin and Lee's algorithm works for
+
+Pournami resolution the first sentence
+
+talks about the following John so a
+
+beautiful acura integra the dealership
+
+last week he showed it to bill he bought
+
+it so we have four point now that we
+
+need to resolve the first one of them is
+
+he in the second sentence so this point
+
+we have two candidate reference john
+
+acura integra and dealership so let's
+
+see what kind of scores each get they
+
+all get 100 points because they are in
+
+the most recent sentence in addition to
+
+that john gets 80 points for being the
+
+subject Integra gets 50 points for being
+
+the object they get none of them get any
+
+points for being in an existential phase
+
+of being an indirect object because
+
+those are not present in that sentence
+
+the three expressions also get bonus
+
+points for not being in an adverbial
+
+phrase and they also get bonus points
+
+for being the head nouns so the total
+
+number of points for John is 310 the
+
+total number of points were Integra is
+
+280 and the total number of points for
+
+dealership is 230 so this point the
+
+algorithm is going to tell us that John
+
+is the most likely antecedent for the
+
+word he because it has the largest
+
+number of points so at this point we
+
+move to the second sentence now we have
+
+to disambiguate the pronoun it since we
+
+have crossed the sentence boundary we
+
+have to have the values for each of the
+
+antecedent so John is still available as
+
+a candidate however it score gets
+
+dropped from 310 255 points the score
+
+for Integra gets dropped in half and
+
+dealership as well so since we have
+
+added he to the group that involves John
+
+we now have a phrase cluster John and he
+
+he one means the first occurrence of he
+
+and since he knives in the current
+
+sentence that cluster is going to get
+
+the sum of the points for John and for
+
+he so three hundred and ten past hundred
+
+fifty-five that's four hundred and
+
+sixty-five so this point John is still
+
+the most salient entity in the discourse
+
+now we are going to move to the next
+
+example
+
+and we're going to disambiguate it it's
+
+going to get a high score because it
+
+matches the right features and in that
+
+case it is going to refer to integra its
+
+new score is going to be added to the
+
+old score for acura integra therefore
+
+raising it up to four hundred and twenty
+
+so at this point john is still in the
+
+lead and Integra is now close behind but
+
+still if you have to choose at this time
+
+boots to go with John as the default
+
+instead of the Integra and then after we
+
+have process the rest of the pronouns
+
+we're going to get this sort of
+
+structure where Bill gets also an
+
+additional number of points whereas
+
+dealership doesn't have any reference at
+
+all so it's going to keep its lower
+
+score 115 points then after we move
+
+together the second sentence we have to
+
+have each of those scores again and that
+
+was going to keep their relative order
+
+but the absolute values are going to be
+
+smaller and we can continue until we
+
+reach the end of the discourse okay the
+
+next topic that we want to discuss is
+
+going to be about coherence and that
+
+will be in our next slide
+
